@@ -1,0 +1,29 @@
+.a {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  background-color: rgb(253, 253, 253);
+}
+
+.a-left {
+  flex: 1;
+}
+
+.a-right {
+  flex: 1;
+}
+.a-img {
+  width: 90%;
+  height: 90vh;
+}
+
+.a-title {
+  font-size: 3rem;
+  font-weight: bold;
+  padding-bottom: 30px;
+}
+
+.a-desc {
+  font-weight: 400;
+  letter-spacing: 1px;
+}

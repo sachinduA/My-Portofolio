@@ -1,0 +1,55 @@
+.e {
+  display: flex;
+  height: 100vh;
+}
+
+.container {
+  padding: 0;
+}
+
+.e-title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  font-weight: bold;
+  color: #59b256;
+}
+
+.e-left {
+  flex: 1;
+  margin-top: 2.5em;
+  margin-bottom: 2.5em;
+  border-right: 1px solid #59b256;
+}
+.e-right {
+  flex: 1;
+  margin-top: 2.5em;
+  margin-bottom: 2.5em;
+}
+
+.e-logos {
+  margin-top: 2em;
+  margin-right: 1em;
+  height: 8vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.e-offers {
+  display: flex;
+  align-items: center;
+}
+
+.offer-left {
+  flex: 1;
+}
+
+.offer-right {
+  flex: 1;
+}
+
+.offer-img {
+  width: 45vh;
+  height: 80vh;
+}

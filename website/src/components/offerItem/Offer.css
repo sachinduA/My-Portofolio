@@ -1,0 +1,13 @@
+.offer-description {
+  font-size: small;
+  color: rgb(122, 122, 122);
+}
+
+.offer-title {
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+
+.offer-container {
+  margin-right: 1em;
+}
