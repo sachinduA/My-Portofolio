@@ -7,7 +7,7 @@ import "./TimeLine.css";
 const TimeLine = () =>
   timelinedata.length > 0 && (
     <div className="tLine">
-      <h3>My Journey</h3>
+      <h3 className="t-title">My Journey</h3>
       <div className="t-container">
         {timelinedata.map((data, idx) => (
           <TimeLineItem data={data} key={idx} />

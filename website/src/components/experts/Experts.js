@@ -15,7 +15,7 @@ const Experts = () => {
     <div className="container">
       <div className="e">
         <div className="e-left">
-          <h3 className="e-title">My Areas</h3>
+          <h3 className="e-title">What I Offer</h3>
           <div className="e-offers">
             <div className="offer-left">
               <img src={devoloper} alt="" className="offer-img" />

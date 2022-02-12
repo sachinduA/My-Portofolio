@@ -10,6 +10,13 @@ h3 {
   margin: 40px 0;
 }
 
+.t-title {
+  font-size: 2.5rem;
+  color: #59b256;
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+
 .t-container::after {
   background-color: #e17b77;
   content: "";
