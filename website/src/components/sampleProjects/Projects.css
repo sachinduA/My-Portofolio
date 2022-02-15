@@ -1,0 +1,26 @@
+.p-container {
+  height: 100vh;
+  display: flex;
+}
+.p-subtitle {
+  display: flex;
+  justify-content: space-around;
+  font-size: medium;
+  color: #59b256;
+  padding-top: 1rem;
+}
+.p-title {
+  font-size: 3rem;
+  font-weight: bold;
+  padding-bottom: 30px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.p-left {
+  flex: 1;
+}
+
+.p-right {
+  flex: 1;
+}

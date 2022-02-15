@@ -9,6 +9,7 @@ import nodejs from "../../images/nodejs.png";
 import nextjs from "../../images/nextjs.png";
 import java from "../../images/java.png";
 import devoloper from "../../images/developer.png";
+import working from "../../images/working.png";
 
 const Experts = () => {
   return (
@@ -18,7 +19,7 @@ const Experts = () => {
           <h3 className="e-title">What I Offer</h3>
           <div className="e-offers">
             <div className="offer-left">
-              <img src={devoloper} alt="" className="offer-img" />
+              <img src={working} alt="" className="offer-img" />
             </div>
 
             <div className="offer-right">
