@@ -1,6 +1,7 @@
 import React from "react";
 
 import "./Projects.css";
+import ProjectList from "../sampleProjects/ProjectList";
 import devoloper from "../../images/programing.png";
 
 const Projects = () => {
@@ -12,7 +13,9 @@ const Projects = () => {
         <div className="p-left">
           <img src={devoloper} alt="" className="p-img" />
         </div>
-        <div className="p-right">right</div>
+        <div className="p-right">
+          <ProjectList />
+        </div>
       </div>
     </div>
   );

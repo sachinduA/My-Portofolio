@@ -6,7 +6,7 @@ const data = [
     discription: "Sri Lanka Institute of information Technology(SLIIT)",
     category: {
       tag: "education",
-      color: "#59b256 ",
+      color: "#157347",
     },
   },
   {
@@ -16,7 +16,7 @@ const data = [
     discription: "ideaCurl ",
     category: {
       tag: "work",
-      color: "#59b256 ",
+      color: "#59b256",
     },
   },
   {
@@ -26,7 +26,7 @@ const data = [
     discription: "Maris Stella College, Negombo",
     category: {
       tag: "education",
-      color: "#59b256 ",
+      color: "#157347",
     },
   },
 ];
