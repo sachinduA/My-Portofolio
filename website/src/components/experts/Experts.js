@@ -8,7 +8,6 @@ import reactjs from "../../images/reactjs.png";
 import nodejs from "../../images/nodejs.png";
 import nextjs from "../../images/nextjs.png";
 import java from "../../images/java.png";
-import devoloper from "../../images/developer.png";
 import working from "../../images/working.png";
 
 const Experts = () => {

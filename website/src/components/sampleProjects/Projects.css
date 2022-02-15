@@ -1,5 +1,8 @@
-.p-container {
+/* .container {
   height: 100vh;
+} */
+
+.p-container {
   display: flex;
 }
 .p-subtitle {
@@ -19,8 +22,15 @@
 
 .p-left {
   flex: 1;
+  align-items: center;
 }
 
 .p-right {
   flex: 1;
+}
+
+.p-img {
+  height: 80vh;
+  display: flex;
+  justify-content: flex-end;
 }
