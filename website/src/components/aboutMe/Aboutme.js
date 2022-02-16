@@ -18,18 +18,23 @@ const About = () => {
         <div className="a-right">
           <h1 className="a-title">About me</h1>
           <p className="a-desc">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
-            nec bibendum augue. Fusce hendrerit maximus feugiat. Donec at nisi
-            pharetra, feugiat velit non, feugiat lectus. Ut ac blandit lorem.
-            Duis id libero felis. Suspendisse potenti. Praesent purus nisi,
-            aliquam at diam at, bibendum lobortis arcu. Suspendisse eros quam,
-            varius a tincidunt sed, vestibulum quis risus. Suspendisse fringilla
-            eget diam id interdum. Donec eget tincidunt massa.
+            I am Information Technology Professional who has experience in
+            software development with a demonstrated history of working in the
+            computer software industry, skilled in Software Development and Web
+            app development. I am a highly motivated and hardworking individual
+            and also interested to meet other professionals and share my
+            knowledge, so feel free to connect!
           </p>
           <div className="intro-social">
-            <img src={github} alt="" className="intro-socialIcons" />
-            <img src={linkedin} alt="" className="intro-socialIcons" />
-            <img src={facebook} alt="" className="intro-socialIcons" />
+            <a href="https://github.com/sachinduA">
+              <img src={github} alt="" className="intro-socialIcons" />
+            </a>
+            <a href="https://www.linkedin.com/in/sachindu-peramuna-924380148/">
+              <img src={linkedin} alt="" className="intro-socialIcons" />
+            </a>
+            <a href="https://www.facebook.com/sachindu.ayodye.9">
+              <img src={facebook} alt="" className="intro-socialIcons" />
+            </a>
             <a href="mailto:sachinduayodye@gmail.com">
               <img src={mail} alt="" className="intro-socialIcons" />
             </a>

@@ -66,6 +66,21 @@ h3 {
   transform: rotate(45deg);
 }
 
+.t-item-content p {
+  font-weight: bold;
+}
+
+.t-item-content time {
+  font-weight: 400;
+  font-size: smaller;
+}
+
+.discription {
+  font-weight: 400;
+  font-size: smaller;
+  color: #59b256;
+}
+
 .t-item:nth-child(odd) .t-item-content {
   align-items: flex-start;
   text-align: left;

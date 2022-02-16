@@ -3,7 +3,7 @@ const data = [
     id: 1,
     title: "BSc.(Hons) in Information Technology",
     date: "November 2021",
-    discription: "Sri Lanka Institute of information Technology(SLIIT)",
+    discription: "Sri Lanka Institute of information Technology (SLIIT)",
     category: {
       tag: "education",
       color: "#157347",
@@ -11,7 +11,7 @@ const data = [
   },
   {
     id: 2,
-    title: "trainee Web Developer",
+    title: "Trainee Web Developer",
     date: "Feb 2019 - Aug 2019",
     discription: "ideaCurl ",
     category: {
