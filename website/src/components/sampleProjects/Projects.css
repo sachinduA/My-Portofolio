@@ -34,3 +34,16 @@
   display: flex;
   justify-content: flex-end;
 }
+
+@media screen and (max-width: 480px) {
+  .p-container {
+    flex-direction: column;
+  }
+  /* .container {
+    margin-top: 50px;
+  } */
+
+  .p-img {
+    width: 50vh;
+  }
+}

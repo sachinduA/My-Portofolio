@@ -55,3 +55,23 @@
   width: 42vh;
   height: 80vh;
 }
+
+@media screen and (max-width: 480px) {
+  .container {
+    flex-direction: column;
+    height: 100%;
+  }
+  .e {
+    flex-direction: column;
+  }
+  .e-left {
+    flex-direction: column;
+    border: none;
+  }
+  .e-right {
+    display: none;
+  }
+  .e-offers {
+    flex-direction: column;
+  }
+}

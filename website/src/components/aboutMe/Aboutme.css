@@ -27,3 +27,33 @@
   font-weight: 400;
   letter-spacing: 1px;
 }
+
+@media screen and (max-width: 480px) {
+  .a {
+    flex-direction: column;
+    height: 100%;
+  }
+
+  .a-img {
+    align-items: center;
+    justify-content: center;
+  }
+
+  .a-title {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .a-desc {
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .intro-social {
+    align-items: center;
+    justify-content: space-between;
+  }
+}

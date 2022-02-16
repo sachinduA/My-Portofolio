@@ -11,3 +11,13 @@
 .offer-container {
   margin-right: 1em;
 }
+
+@media screen and (max-width: 480px) {
+  .offer-item {
+    flex-direction: column;
+    height: 100%;
+  }
+  .offer-container {
+    height: 100%;
+  }
+}
