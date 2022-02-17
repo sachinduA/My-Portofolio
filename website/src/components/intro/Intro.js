@@ -26,9 +26,12 @@ const Intro = () => {
           </p>
 
           <div className="intro-cv">
-            <button>
-              <span>Get CV</span>
-            </button>
+            <a
+              className="btn btn-success"
+              href="https://drive.google.com/file/d/1bxns2izgWMjquT_c2VRSXS17j2qSqtyJ/view?usp=sharing"
+            >
+              Get CV
+            </a>
           </div>
         </div>
       </div>

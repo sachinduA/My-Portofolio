@@ -88,7 +88,7 @@
   justify-content: flex-start;
 }
 
-button {
+.intro-cv a {
   position: relative;
   outline: none;
   width: 20vh;
@@ -105,8 +105,9 @@ button {
   color: #59b256;
 }
 
-button:hover {
+.intro-cv a:hover {
   background-color: #59b256;
+  border-color: #59b256;
   color: #fff;
   cursor: pointer;
   font-size: large;
