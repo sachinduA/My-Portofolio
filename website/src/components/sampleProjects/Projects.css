@@ -1,7 +1,3 @@
-/* .container {
-  height: 100vh;
-} */
-
 .p-container {
   display: flex;
 }
@@ -39,11 +35,14 @@
   .p-container {
     flex-direction: column;
   }
+  .p-right {
+    height: 100vh;
+  }
   /* .container {
     margin-top: 50px;
   } */
 
   .p-img {
-    width: 50vh;
+    width: calc(100% - 2px);
   }
 }

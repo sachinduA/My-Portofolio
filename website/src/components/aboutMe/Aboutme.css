@@ -35,14 +35,15 @@
   }
 
   .a-img {
-    align-items: center;
-    justify-content: center;
+    display: none;
   }
 
   .a-title {
     align-items: center;
     justify-content: center;
     text-align: center;
+    padding-top: 20px;
+    padding-bottom: 0;
   }
 
   .a-desc {
@@ -54,6 +55,7 @@
 
   .intro-social {
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
+    width: 100%;
   }
 }

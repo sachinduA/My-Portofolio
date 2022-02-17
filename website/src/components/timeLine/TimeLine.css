@@ -172,4 +172,38 @@ h3 {
     flex-direction: column;
     height: 100%;
   }
+  .t-container {
+    margin-bottom: 0%;
+  }
+  .t-container::after {
+    display: none;
+  }
+  .t-item:nth-child(odd),
+  .t-item {
+    align-self: center;
+    justify-content: space-around;
+    width: 100%;
+    padding: 0%;
+  }
+
+  .t-item-content {
+    align-items: center;
+    text-align: center;
+    padding: 15px;
+  }
+  .t-item:nth-child(odd) .t-item-content {
+    align-items: center;
+    text-align: center;
+  }
+  .circle,
+  .t-item-content::after {
+    display: none;
+  }
+
+  .t-item-content .tag {
+    width: calc(100% - 10px);
+  }
+  .t-item-content time {
+    margin-top: 20px;
+  }
 }

@@ -63,14 +63,13 @@
   }
   .e {
     flex-direction: column;
+    height: 100%;
   }
   .e-left {
     flex-direction: column;
     border: none;
   }
-  .e-right {
-    display: none;
-  }
+
   .e-offers {
     flex-direction: column;
   }
