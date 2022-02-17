@@ -18,3 +18,9 @@
   background-color: #59b256;
   border-color: #59b256;
 }
+
+@media screen and (max-width: 480px) {
+  .card-footer {
+    justify-content: space-around;
+  }
+}
