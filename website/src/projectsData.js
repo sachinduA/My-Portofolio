@@ -10,14 +10,14 @@ const pdata = [
     id: 2,
     title: "Sample Java Project",
     discription:
-      "Created At sat Feb 12 2022 14:13:57 GMT+05:30 (India Standard Time)",
+      "Created At sat May 19 2019 10:13:23 GMT+05:30 (India Standard Time)",
     link: "https://github.com/sachinduA/Practical-Test",
   },
   {
     id: 3,
     title: "Research Management Project",
     discription:
-      "Simple Research Management application using java. Created At sat Feb 12 2022 14:13:57 GMT+05:30 (India Standard Time)",
+      "Simple Research Management application using java. Created At sat May 14 2021 15:09:20 GMT+05:30 (India Standard Time)",
     link: "https://github.com/sachinduA/PAF-group-project",
   },
 ];
