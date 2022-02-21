@@ -38,9 +38,6 @@
   .p-right {
     height: 100vh;
   }
-  /* .container {
-    margin-top: 50px;
-  } */
 
   .p-img {
     width: calc(100% - 2px);
