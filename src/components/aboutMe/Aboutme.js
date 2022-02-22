@@ -1,3 +1,4 @@
+import React from "react";
 import "./Aboutme.css";
 
 import devoloper from "../../images/Sdeveloper.png";
