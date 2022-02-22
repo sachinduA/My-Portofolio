@@ -71,10 +71,6 @@
     border: none;
   }
 
-  .e-logos {
-    max-width: 100%;
-  }
-
   .e-offers {
     flex-direction: column;
   }

@@ -1,0 +1,32 @@
+.container {
+  margin-bottom: 2em;
+}
+.e-logos {
+  margin-top: 2em;
+  margin-right: 1em;
+  height: 20vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.l-subtitle {
+  display: flex;
+  justify-content: space-around;
+  font-size: medium;
+  color: #59b256;
+  padding-top: 1rem;
+}
+
+@media screen and (max-width: 480px) {
+  .e-logos {
+    flex-direction: row;
+    max-width: 100%;
+    height: 10vh;
+    justify-content: space-around;
+  }
+
+  .container {
+    flex-direction: row;
+  }
+}

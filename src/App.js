@@ -7,6 +7,7 @@ import Intro from "./components/intro/Intro";
 import Experts from "./components/experts/Experts";
 import About from "./components/aboutMe/Aboutme";
 import Projects from "./components/sampleProjects/Projects";
+import Img from "./components/langsImg/Img";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Intro />
       <About />
       <Experts />
+      <Img />
       <Projects />
     </div>
   );
