@@ -28,7 +28,7 @@ const Intro = () => {
           <div className="intro-cv">
             <a
               className="btn btn-success"
-              href="https://drive.google.com/file/d/1bxns2izgWMjquT_c2VRSXS17j2qSqtyJ/view?usp=sharing"
+              href="https://drive.google.com/drive/folders/15QOpOtNqDCsXWR_GOQU2uoSnPEe11g4I?usp=sharing"
             >
               Get CV
             </a>
